@@ -330,3 +330,6 @@ For issues and questions:
 ---
 
 **Remember: With great power comes great responsibility. Use GoOsint ethically and legally.**
+
+<h3 align="left">Support:</h3>
+<p><a href="https://buymeacoffee.com/animeshpanx?new=1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="soon" /></a>
