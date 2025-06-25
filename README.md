@@ -105,6 +105,9 @@ Before using GoOsint, you need to set up GHunt authentication:
 ```bash
 python3 GoOsint.py --setup
 ```
+The extension is available on the following stores :\
+\
+[![Firefox](https://files.catbox.moe/5g2ld5.png)](https://addons.mozilla.org/en-US/firefox/addon/ghunt-companion/)&nbsp;&nbsp;&nbsp;[![Chrome](https://developer.chrome.com/static/docs/webstore/branding/image/206x58-chrome-web-bcb82d15b2486.png)](https://chrome.google.com/webstore/detail/ghunt-companion/dpdcofblfbmmnikcbmmiakkclocadjab)
 
 This will guide you through the GHunt authentication process, which requires:
 - A Google account
